@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 08ced0835006c70478af63a99c6fa7a5
+guid: 9c6d9ec3db8784843a5ac94be9307d22
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature.012|Armature.005Action.001
-      takeName: Armature.012|Armature.005Action.001
-      internalID: -336262837750991448
+      name: Armature.022|Armature.022Action
+      takeName: Armature.022|Armature.022Action
+      internalID: -943717902624525957
       firstFrame: 0
-      lastFrame: 20
+      lastFrame: 16
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -60,9 +60,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|CINEMA_4D_Main|Layer0
-      takeName: Armature.012|pseudoscorpion|CINEMA_4D_Main|Layer0
-      internalID: 6111834450976617367
+      name: Armature.022|pseudoscorpion|CINEMA_4D_Main|Layer0
+      takeName: Armature.022|pseudoscorpion|CINEMA_4D_Main|Layer0
+      internalID: 3069111916586838210
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
@@ -89,9 +89,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|CINEMA_4D_Main|Layer0.001
-      takeName: Armature.012|pseudoscorpion|CINEMA_4D_Main|Layer0.001
-      internalID: -7526967774319849781
+      name: Armature.022|pseudoscorpion|CINEMA_4D_Main|Layer0.001
+      takeName: Armature.022|pseudoscorpion|CINEMA_4D_Main|Layer0.001
+      internalID: 5356199241994444492
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
@@ -118,9 +118,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|Idle|Layer0
-      takeName: Armature.012|pseudoscorpion|Idle|Layer0
-      internalID: -4344395746500786112
+      name: Armature.022|pseudoscorpion|Idle|Layer0
+      takeName: Armature.022|pseudoscorpion|Idle|Layer0
+      internalID: -5338114900839617830
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
@@ -147,9 +147,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|Idle|Layer0.001
-      takeName: Armature.012|pseudoscorpion|Idle|Layer0.001
-      internalID: 4521608239607250967
+      name: Armature.022|pseudoscorpion|Idle|Layer0.001
+      takeName: Armature.022|pseudoscorpion|Idle|Layer0.001
+      internalID: -7398310641871726734
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
@@ -176,9 +176,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|Walk|Layer0
-      takeName: Armature.012|pseudoscorpion|Walk|Layer0
-      internalID: 7907920016427327905
+      name: Armature.022|pseudoscorpion|Walk|Layer0
+      takeName: Armature.022|pseudoscorpion|Walk|Layer0
+      internalID: 7803712359650661793
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
@@ -205,9 +205,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.012|pseudoscorpion|Walk|Layer0.001
-      takeName: Armature.012|pseudoscorpion|Walk|Layer0.001
-      internalID: -3517468619560604341
+      name: Armature.022|pseudoscorpion|Walk|Layer0.001
+      takeName: Armature.022|pseudoscorpion|Walk|Layer0.001
+      internalID: 2103748406166890408
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 0
